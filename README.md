@@ -1,6 +1,5 @@
 # PEC3_Manovich_Reloaded
 Ensayo sobre la hibridación con los casos TikTok y MetaHorizon
-# PEC3: Manovich Reloaded  
 **Alba Carranza Gallardo**  
 **Grado en Multimedia**  
 **Asignatura: Cultura Digital**
