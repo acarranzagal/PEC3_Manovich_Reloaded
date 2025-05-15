@@ -23,6 +23,9 @@ TikTok, lanzado globalmente en 2018 por la empresa china ByteDance, ha revolucio
 
 La lógica de TikTok no responde a una red social tradicional centrada en las relaciones, sino a una "máquina" basada en intereses, tendencias y patrones detectados con inteligencia artifial. El TikTok el usuario es consumidor, creador y difusor. El acceso a herramientas creativas como sonidos pregrabados o plantillas de edición facilita un remix constante. 
 
+![image](https://github.com/user-attachments/assets/b0f2464c-25c7-41f6-81c1-6bcde7be17d7)
+
+
 ### Hibridación detectada
 
 - **Mezcla de medios**: vídeos musicales, fragmentos de películas, narración oral, edición cinematográfica, realities domésticos, memes y transmisiones en directo convergen en un mismo espacio.
@@ -59,6 +62,8 @@ Conecta con:
 Meta Horizon es una plataforma desarrollada por Meta (antes Facebook) que busca consolidar el metaverso como un nuevo espacio digital donde convergen interacción social, videojuegos, creación de contenidos y experiencias inmersivas. Dentro de este ecosistema destaca **Horizon Worlds**, una aplicación de realidad virtual accesible desde dispositivos Meta Quest, que permite a los usuarios construir, explorar y socializar en mundos virtuales generados por la comunidad.
 
 Horizon se sitúa en la frontera entre red social, entorno de creación 3D y plataforma gamificada. Los usuarios pueden diseñar mundos sin necesidad de saber programar, asistir a eventos en tiempo real (conciertos, reuniones, actividades educativas) y habitar un espacio virtual que simula presencia física a través de avatares personalizados y sonidos espaciales. No es solo un nuevo tipo de software: es una interfaz vivencial.
+
+![image](https://github.com/user-attachments/assets/cbb2c777-5126-4b56-ab93-537b073e8ce3)
 
 ### Hibridación detectada
 
